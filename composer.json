@@ -1,5 +1,6 @@
 {
     "name": "apiqroo/apitable",
+    "version": "1.0.0",
     "description": "ApiTables para Aplicativos de Apiqroo",
     "license": "MIT",
     "authors": [
